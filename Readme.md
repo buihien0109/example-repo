@@ -34,3 +34,9 @@ Tham khảo link :
 - HTML là gì : https://teacher.techmaster.vn/curriculum/TrXl0sHp/3fkA1RiI/lBXYb2Gt
 - Chuyên sâu HTML : https://books.goalkicker.com/GitBook/
 - Tham khảo chi tiết [tại đây](https://books.goalkicker.com/GitBook/)
+
+> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil soluta expedita optio consequatur dolore repellat vero et neque sint nulla vel commodi repudiandae dolores, rem quae! Quos possimus assumenda corporis?
+
+### Hình minh họa
+
+![ảnh sinh nhật](./image_01.jpeg)
