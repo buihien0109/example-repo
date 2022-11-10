@@ -1,3 +1,12 @@
+## HTML là gì?
+
+HTML là viết tắt của **Hyper Text Markup Language** (ngôn ngữ đánh dấu siêu văn bản). 
+
+HTML cho phép người dùng tạo và cấu trúc hóa các thành phần trên một trang web như đoạn văn, tiêu đề, liên kết, trích dẫn, bảng biểu...
+
+Chương trình đầu tiên
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,3 +27,10 @@
     <a href="#">Google</a>
 </body>
 </html>
+```
+
+Tham khảo link :
+
+- HTML là gì : https://teacher.techmaster.vn/curriculum/TrXl0sHp/3fkA1RiI/lBXYb2Gt
+- Chuyên sâu HTML : https://books.goalkicker.com/GitBook/
+- Tham khảo chi tiết [tại đây](https://books.goalkicker.com/GitBook/)
